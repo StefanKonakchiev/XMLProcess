@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Centralna" address="Sofia 1000">
+  <Books>
+    <Book language="english">
+      <Title>Alhimika</Title>
+      <Author name="Koelio" nationality="Brazil" />
+    </Book>
+    <Book language="english">
+      <Title>Harun i moreto ot prikazki</Title>
+      <Author name="Orhan Pamuk" nationality="Turkey" />
+    </Book>
+  </Books>
+</Library>

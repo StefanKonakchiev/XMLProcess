@@ -1,0 +1,11 @@
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\bin\Debug\netcoreapp2.1\XMLProcessing.deps.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\bin\Debug\netcoreapp2.1\XMLProcessing.runtimeconfig.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\bin\Debug\netcoreapp2.1\XMLProcessing.runtimeconfig.dev.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\bin\Debug\netcoreapp2.1\XMLProcessing.dll
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\bin\Debug\netcoreapp2.1\XMLProcessing.pdb
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.csprojAssemblyReference.cache
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.csproj.CoreCompileInputs.cache
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.AssemblyInfoInputs.cache
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.AssemblyInfo.cs
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.dll
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\10.XMLProcessingLecture\XMLProcessing\XMLProcessing\obj\Debug\netcoreapp2.1\XMLProcessing.pdb
