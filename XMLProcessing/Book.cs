@@ -18,5 +18,7 @@ namespace XMLProcessing
 
         [XmlIgnore]
         public decimal Price { get; set; }
+        
+        //Something new
     }
 }
